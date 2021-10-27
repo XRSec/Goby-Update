@@ -1,8 +1,6 @@
 name: Goby Update
   
 on:
-  watch:
-    types: [started]
   repository_dispatch:
     types: [Goby_Update_Action]
 
