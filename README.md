@@ -8,7 +8,7 @@
 >
 > The new generation of network security technology achieves rapid security emergency through the establishment of a complete asset database for the target.
 
-![image-20210820133955505](https://rmt.ladydaily.com/fetch/ZYGG/storage/image-20210820133955505.png?w=1280)
+![image-20210820133955505](https://xrsec.s3.bitiful.net/IMG/image-20210820133955505.png?w=1280)
 
 ### Info
 
@@ -32,11 +32,11 @@ docker run -it --name goby -p 15001:15001 -e password=password -e port=15001 xrs
 # --restart=always  Automatic restart
 ```
 
-![image-20210820171215830](https://rmt.ladydaily.com/fetch/ZYGG/storage/20210820171444750926.png)
+![image-20210820171215830](https://xrsec.s3.bitiful.net/IMG/20210820171444750926.png)
 
 ### Goby_Desktop
 
-![image-20210820171402647](https://rmt.ladydaily.com/fetch/ZYGG/storage/20210820171449669292.png)
+![image-20210820171402647](https://xrsec.s3.bitiful.net/IMG/20210820171449669292.png)
 
 ## Compile again
 
